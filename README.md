@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">I'm a self-motivated backend developer with a year experience in NodeJS and C# development. I'm familiar with front-end technologies such as HTML, CSS.I look forward to improving my skills and taking the next step in my career.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepaydogmus&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepaydogmus" /> </p>
-
 - 🔭 I’m currently working on **Gamer Arena Mobile App**
 
 - 🌱 I’m currently learning **Node.js Express Framework and .Net**
