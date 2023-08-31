@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
-<h3 align="center">I'm a self-motivated backend developer with a year experience in NodeJS and .Net development. I'm familiar with front-end technologies such as HTML, CSS.I look forward to improving my skills and taking the next step in my career.</h3>
+<h3 align="center">"I'm a self-motivated backend developer with a year of experience in NodeJS and .Net development. I'm well-versed in front-end technologies such as HTML and CSS. With a newfound proficiency in React, I'm excited to share that I've expanded my skill set. Among my aspirations is to evolve into a full-stack developer. I am enthusiastic about further enhancing my abilities and embarking on the next phase of my career.".</h3>
 
 - 🔭 I’m currently working on **Gamer Arena Mobile App**
 
