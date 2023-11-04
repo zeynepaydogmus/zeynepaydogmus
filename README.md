@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Gamer Arena Mobile App**
 
-- 🌱 I’m currently learning **Node.js with Express Framework and C# with .Net**
+- 🌱 I’m currently learning **Node.js with Express Framework and C# with ASP.NET**
 
 - 💬 Ask me about **JavaScript, Node.js**
 
