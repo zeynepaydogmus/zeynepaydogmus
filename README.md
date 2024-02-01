@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">I'm a self-motivated backend developer with a year of experience in NodeJS and .Net development. I'm well-versed in front-end technologies such as HTML and CSS. With a newfound proficiency in React, I'm excited to share that I've expanded my skill set. Among my aspirations is to evolve into a full-stack developer. I am enthusiastic about further enhancing my abilities and embarking on the next phase of my career.</h3>
 
-- 🌱 I’m currently learning **Node.js with Express Framework and C# with Asp.Net Core**
+- 🌱 I’m currently learning **Node.js with Express Framework and C# with Asp.Net Entity Framework**
 
 - 💬 Ask me about **JavaScript, Node.js - Asp.Net Entity Framework **
 
