@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js with Express Framework and C# with Asp.Net Core**
 
-- 💬 Ask me about **JavaScript, Node.js - Asp.Net Core **
+- 💬 Ask me about **JavaScript, Node.js - Asp.Net Entity Framework **
 
 - 📫 How to reach me **aydgms.zeynep@gmail.com**
 
